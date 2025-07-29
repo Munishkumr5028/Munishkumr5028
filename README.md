@@ -43,7 +43,7 @@ Built with **Next.js + Tailwind CSS + GSAP**, it showcases my skills, experience
 
 ## 🎓 Featured Project – SPN College Portal
 
-🚀 **Live Demo:** [spn-production.up.railway.app](https://spn-production.up.railway.app)
+🚀 **Live Demo:** [spn-production.up.railway.app](https://spn-college.vercel.app/)
 
 A full-stack MERN college portal featuring:
 
