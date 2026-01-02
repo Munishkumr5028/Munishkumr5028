@@ -75,7 +75,7 @@ A full-stack MERN college portal featuring:
 
 ## 🙌 Let's Connect
 
-- 💼 [Portfolio](https://munish-portfolio-gamma.vercel.app)
+- 💼 [Portfolio](https://munishkumar.vercel.app)
 - 🔗 [LinkedIn](https://linkedin.com/in/munish5028)
 - ✉️ [munishkumr786@gmail.com](mailto:munishkumr786@gmail.com)
 
