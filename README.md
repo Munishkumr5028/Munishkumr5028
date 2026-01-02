@@ -14,7 +14,7 @@
 ## 🌐 Portfolio Website
 
 🔗 **Check out my portfolio:**  
-👉 [https://munish-portfolio-gamma.vercel.app](https://munish-portfolio-gamma.vercel.app)
+👉 [https://munishkumar.vercel.app](https://munishkumar.vercel.app)
 
 Built with **Next.js + Tailwind CSS + GSAP**, it showcases my skills, experience, and latest projects.
 
